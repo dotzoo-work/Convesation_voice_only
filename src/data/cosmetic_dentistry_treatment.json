@@ -1,0 +1,42 @@
+
+{
+  "treatment_name": "Cosmetic Dentistry",
+  "category": "treatment",
+  "procedure_type": "Smile Enhancement Treatment",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "Cosmetic dentistry focuses on improving the appearance of teeth, gums, and smile while supporting overall dental health and confidence.",
+  "main_services": [
+    "Teeth Whitening",
+    "Porcelain Veneers",
+    "Dental Bonding",
+    "Smile Makeovers",
+    "Invisalign",
+    "Dental Implants",
+    "Crowns and Bridges",
+    "Full Mouth Reconstruction"
+  ],
+  "main_benefits": [
+    "Improved smile appearance",
+    "Whiter and brighter teeth",
+    "Better tooth shape and alignment",
+    "Improved self-confidence",
+    "Natural-looking aesthetic results"
+  ],
+  "technology_used": [
+    "iTero 5D Scanner",
+    "Digital X-Rays",
+    "CAD/CAM Workflow",
+    "Laser Dentistry"
+  ],
+  "suitable_for": [
+    "Patients with stained teeth",
+    "Patients with chipped or broken teeth",
+    "Patients with uneven spacing",
+    "Patients with missing teeth",
+    "Patients seeking smile enhancement"
+  ],
+  "painful": false,
+  "notes": "Treatment plans are personalized based on the patient’s smile goals and oral health condition."
+}

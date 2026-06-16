@@ -1,0 +1,51 @@
+
+{
+  "treatment_name": "Dental Implants",
+  "category": "treatment",
+  "procedure_type": "Permanent Tooth Replacement",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "Dental implants are permanent tooth replacement solutions that replace missing teeth by placing a titanium post into the jawbone and restoring it with a crown, bridge, or denture.",
+  "main_benefits": [
+    "Permanent replacement for missing teeth",
+    "Improved chewing and speaking ability",
+    "Natural appearance and feel",
+    "Prevents bone loss in the jaw",
+    "Maintains facial structure",
+    "Does not affect adjacent healthy teeth",
+    "Long-lasting restorative solution"
+  ],
+  "used_for": [
+    "Single missing tooth",
+    "Multiple missing teeth",
+    "Full mouth restoration",
+    "All-On-X full arch restoration",
+    "Supporting bridges and dentures"
+  ],
+  "technology_used": [
+    "Digital X-Rays",
+    "iTero 5D Scanner",
+    "3D Treatment Planning",
+    "CAD/CAM Workflow"
+  ],
+  "treatment_process": [
+    "Initial consultation and implant evaluation",
+    "Digital scans and treatment planning",
+    "Placement of titanium implant post",
+    "Healing and bone integration period",
+    "Abutment placement",
+    "Final crown, bridge, or denture placement"
+  ],
+  "painful": false,
+  "removable": false,
+  "durability": "Long-lasting and often can last many years with proper care",
+  "aftercare": [
+    "Brush and floss regularly",
+    "Maintain healthy gums",
+    "Routine dental check-ups",
+    "Avoid smoking",
+    "Follow post-surgery instructions carefully"
+  ],
+  "notes": "Dental implants are considered one of the most reliable long-term solutions for missing teeth replacement."
+}

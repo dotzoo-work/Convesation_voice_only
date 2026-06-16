@@ -1,0 +1,43 @@
+
+{
+  "category": "Clinic Information",
+  "clinic_name": "Edmonds Bay Dental",
+  "doctor": "Dr. Meenakshi Tomar",
+
+  "locations": [
+    {
+      "id": "primary",
+      "clinic_name": "Edmonds Bay Dental",
+      "address": {
+        "street": "51 W Dayton Street Suite 301",
+        "city": "Edmonds",
+        "state": "WA",
+        "zip": "98020"
+      },
+      "phone": "425-775-5162"
+    },
+    {
+      "id": "secondary",
+      "clinic_name": "Pacific Highway Dental",
+      "address": {
+        "street": "27020 Pacific Highway South, Suite C",
+        "city": "Kent",
+        "state": "WA",
+        "zip": "98032"
+      },
+      "phone": "253-529-9434"
+    }
+  ],
+
+  "languages": {
+    "doctor": ["English", "Hindi", "Punjabi"],
+    "staff": ["English", "Hindi", "Punjabi", "Spanish"]
+  },
+
+  "patient_accessibility": {
+    "accepts_out_of_state": true,
+    "travel_friendly_scheduling": true
+  },
+
+  "notes": "Primary clinic is located in Edmonds, WA with an additional location in Kent, WA."
+}

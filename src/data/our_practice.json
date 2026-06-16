@@ -1,0 +1,50 @@
+{
+  "clinic_name": "Edmonds Bay Dental",
+  "category": "General and Services",
+  "location": "51 W Dayton Street Suite 301, Edmonds, WA 98020",
+  "phone": "425-775-5162",
+  "doctor": "Dr. Meenakshi Tomar, DDS",
+  "specialization": [
+    "General Dentistry",
+    "Cosmetic Dentistry",
+    "Preventive Care",
+    "Restorative Dentistry",
+    "Emergency Dental Care"
+  ],
+  "core_values": [
+    "High Standards",
+    "Education and Prevention",
+    "Uncompromising Safety",
+    "Training and Expertise",
+    "Positive Patient Experience"
+  ],
+  "services_focus": [
+    "Comprehensive treatment planning",
+    "Routine cleanings",
+    "Dental exams",
+    "Oral cancer exams",
+    "X-rays when necessary",
+    "Flossing guidance",
+    "Sealants",
+    "Fluoride prevention"
+  ],
+  "safety_standards": [
+    "ADA standards",
+    "OSHA standards",
+    "CDC infection control guidelines"
+  ],
+  "patient_experience": [
+    "Relaxing environment",
+    "Exceptional customer service",
+    "Coffee and flavored tea for patients",
+    "Comfortable dental visits",
+    "Scenic view of Puget Sound and Olympic Mountain Range"
+  ],
+  "emergency_support": true,
+  "working_days": [
+    "Monday",
+    "Tuesday",
+    "Thursday"
+  ],
+  "working_hours": "7 AM to 6 PM"
+}

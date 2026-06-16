@@ -1,0 +1,27 @@
+
+{
+  "clinic_name": "Edmonds Bay Dental",
+  "category": "Clinic Location and Directions",
+  "address": "51 W Dayton Street, Suite 301, Edmonds, WA 98020",
+  "city": "Edmonds",
+  "state": "Washington",
+  "zip_code": "98020",
+  "phone": "425-775-5162",
+  "fax": "425-491-8100",
+  "doctor": "Dr. Meenakshi Tomar",
+  "location_features": [
+    "Located in downtown Edmonds",
+    "Near Edmonds waterfront area",
+    "Easy access from major local roads",
+    "Professional dental office setting"
+  ],
+  "parking": true,
+  "public_transport_access": true,
+  "working_days": [
+    "Monday",
+    "Tuesday",
+    "Thursday"
+  ],
+  "working_hours": "7 AM to 6 PM",
+  "notes": "Patients can contact the clinic directly for appointment scheduling and exact driving directions."
+}

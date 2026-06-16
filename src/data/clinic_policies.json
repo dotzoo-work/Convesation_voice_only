@@ -1,0 +1,39 @@
+
+{
+  "category": "Clinic Policies",
+  "clinic_name": "Edmonds Bay Dental",
+
+  "payments": {
+    "bitcoin": false,
+    "accepted_methods": [
+      "Cash",
+      "Major credit cards",
+      "Insurance"
+    ]
+  },
+
+  "procedural_policies": {
+    "laughing_gas": false,
+    "botox": false,
+    "silver_fillings": false,
+    "amalgam": false
+  },
+
+  "pediatric_policy": {
+    "treats_toddlers": true
+  },
+
+  "staffing": {
+    "has_hygienist": false
+  },
+
+  "insurance_restrictions": {
+    "medicare": false,
+    "apple_health": false
+  },
+
+  "facility": {
+    "free_coffee": false,
+    "bathroom_for_patients_only": true
+  }
+}

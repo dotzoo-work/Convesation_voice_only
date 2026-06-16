@@ -1,0 +1,54 @@
+
+{
+  "treatment_name": "Preventative Dentistry",
+  "category": "Preventative Care",
+  "procedure_type": "Preventive Oral Health Care",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "Preventative dentistry focuses on maintaining healthy teeth and gums through regular cleanings, exams, early detection, and preventive treatments to avoid future dental problems.",
+  "main_services": [
+    "Dental Exams and Cleanings",
+    "Oral Cancer Screening",
+    "Fluoride Treatment",
+    "Panoramic X-Rays",
+    "CBCT Scan",
+    "Hygiene Services",
+    "Plaque and Tartar Removal",
+    "Gum Disease Prevention"
+  ],
+  "main_benefits": [
+    "Prevents cavities and gum disease",
+    "Early detection of dental problems",
+    "Reduces risk of expensive future treatments",
+    "Maintains healthy teeth and gums",
+    "Improves long-term oral health",
+    "Supports overall health and wellness"
+  ],
+  "used_for": [
+    "Routine dental maintenance",
+    "Early diagnosis of oral issues",
+    "Preventive treatment planning",
+    "Long-term oral health protection"
+  ],
+  "treatment_process": [
+    "Routine dental examination",
+    "Professional teeth cleaning",
+    "Removal of plaque and tartar",
+    "Gum health evaluation",
+    "Oral cancer screening",
+    "Preventive X-rays if needed",
+    "Fluoride or sealant recommendations"
+  ],
+  "painful": false,
+  "removable": false,
+  "recommended_frequency": "Every 6 months for most patients, depending on individual oral health needs",
+  "aftercare": [
+    "Brush twice daily",
+    "Daily flossing",
+    "Routine dental check-ups",
+    "Healthy diet with limited sugar",
+    "Follow dentist recommendations"
+  ],
+  "notes": "Preventative care helps avoid major restorative procedures by identifying and treating issues early."
+}

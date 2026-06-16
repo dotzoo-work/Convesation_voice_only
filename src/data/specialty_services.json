@@ -1,0 +1,45 @@
+
+{
+  "section_name": "Dental Specialties",
+  "category": "Specialty Services",
+  "clinic_name": "Edmonds Bay Dental",
+  "doctor": "Dr. Meenakshi Tomar",
+  "description": "Edmonds Bay Dental provides multiple specialty dental services focused on advanced diagnosis, treatment, restoration, and long-term oral health care.",
+  "specialty_services": [
+    "Preventative Dentistry",
+    "Cosmetic Dentistry",
+    "Restorative Dentistry",
+    "Oral Surgery",
+    "Prosthodontics",
+    "Orthodontics",
+    "Laser Dentistry",
+    "Endodontics",
+    "Periodontics",
+    "Pediatric Dentistry",
+    "Dental Implants",
+    "Invisalign",
+    "Full Mouth Restorations"
+  ],
+  "technology_used": [
+    "Digital X-Rays",
+    "iTero 5D Scanner",
+    "CBCT Scan",
+    "Intraoral Camera",
+    "Laser Dentistry",
+    "CAD/CAM Workflow"
+  ],
+  "main_benefits": [
+    "Comprehensive dental care in one clinic",
+    "Advanced treatment planning",
+    "Improved comfort and precision",
+    "Better long-term oral health outcomes",
+    "Modern technology-supported treatments",
+    "Personalized treatment plans"
+  ],
+  "languages_supported": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "notes": "Specialty services are designed to provide complete dental care ranging from prevention to full-mouth rehabilitation."
+}

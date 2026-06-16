@@ -1,0 +1,50 @@
+
+{
+  "treatment_name": "Crown (Caps)",
+  "category": "treatment",
+  "procedure_type": "Tooth Restoration",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "A dental crown, also called a cap, is a covering that completely encases a damaged tooth to restore its original shape, size, strength, and appearance.",
+  "used_for": [
+    "Protect weak teeth",
+    "Restore broken teeth",
+    "Support teeth with large fillings",
+    "Cover root canal treated teeth",
+    "Improve tooth appearance",
+    "Restore worn or cracked teeth"
+  ],
+  "main_benefits": [
+    "Strengthens weak teeth",
+    "Restores normal chewing function",
+    "Improves appearance",
+    "Protects tooth from further damage",
+    "Long-lasting restoration"
+  ],
+  "technology_used": [
+    "iTero 5D Digital Scanner",
+    "Digital Impressions",
+    "Custom Shade Matching",
+    "CAD/CAM Workflow"
+  ],
+  "treatment_process": [
+    "Dental examination and treatment planning",
+    "Tooth preparation by removing outer damaged structure",
+    "Digital impression using iTero scanner",
+    "Temporary crown placement",
+    "Custom crown fabrication in dental lab",
+    "Permanent crown placement and bite adjustment"
+  ],
+  "painful": false,
+  "removable": false,
+  "durability": "Long-lasting with proper care and regular dental check-ups",
+  "aftercare": [
+    "Maintain good oral hygiene",
+    "Avoid very hard foods",
+    "Brush and floss carefully",
+    "Attend regular dental check-ups",
+    "Use nightguard if recommended for teeth grinding"
+  ],
+  "notes": "Some temporary sensitivity after crown placement is normal and usually improves within a few weeks."
+}

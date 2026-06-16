@@ -1,0 +1,47 @@
+
+{
+  "treatment_name": "Fixed Bridges",
+  "category": "treatment",
+  "procedure_type": "Permanent Tooth Replacement",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "A dental bridge is a fixed non-removable dental appliance used to replace one or more missing teeth by attaching artificial teeth to neighboring natural teeth.",
+  "bridge_types": [
+    "Traditional Bridge",
+    "Porcelain Fused to Metal Bridge"
+  ],
+  "main_benefits": [
+    "Fill space of missing teeth",
+    "Maintain facial shape",
+    "Prevent remaining teeth from drifting",
+    "Restore chewing ability",
+    "Improve speaking ability",
+    "Restore smile appearance",
+    "Upgrade from removable partial denture to permanent solution"
+  ],
+  "used_for": [
+    "Single missing tooth",
+    "Multiple missing teeth",
+    "Replacing removable partial dentures",
+    "Permanent smile restoration"
+  ],
+  "treatment_process": [
+    "Initial consultation and treatment planning",
+    "Preparation of anchoring teeth by removing part of enamel",
+    "Dental impression sent to laboratory",
+    "Temporary bridge placement",
+    "Permanent bridge fitting and adjustment",
+    "Final bridge cementation"
+  ],
+  "painful": false,
+  "removable": false,
+  "durability": "Highly durable and long-lasting with proper care, though replacement or re-cementing may be needed over time",
+  "aftercare": [
+    "Proper brushing",
+    "Daily flossing",
+    "Regular dental visits",
+    "Routine dental check-ups"
+  ],
+  "notes": "Traditional bridges are commonly made of porcelain fused to metal and supported by crowns placed on anchoring teeth."
+}

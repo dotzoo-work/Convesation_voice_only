@@ -1,0 +1,50 @@
+
+{
+  "treatment_name": "Dentures and Partial Dentures",
+  "category": "treatment",
+  "procedure_type": "Tooth Replacement",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "Dentures and partial dentures are removable dental appliances used to replace missing teeth and restore chewing, speaking, and smile appearance.",
+  "types": [
+    "Complete Dentures",
+    "Partial Dentures",
+    "Flexible Partial Dentures",
+    "Implant-Supported Dentures"
+  ],
+  "main_benefits": [
+    "Replace missing teeth",
+    "Improve chewing ability",
+    "Improve speech clarity",
+    "Restore facial appearance",
+    "Support lips and cheeks",
+    "Improve confidence and smile appearance",
+    "Affordable tooth replacement option"
+  ],
+  "used_for": [
+    "Single arch full tooth loss",
+    "Multiple missing teeth",
+    "Partial tooth loss",
+    "Full mouth restoration support"
+  ],
+  "treatment_process": [
+    "Initial consultation and oral examination",
+    "Dental impressions and measurements",
+    "Custom denture design and fitting",
+    "Try-in appointment for adjustments",
+    "Final denture delivery",
+    "Follow-up visits for comfort adjustments"
+  ],
+  "painful": false,
+  "removable": true,
+  "durability": "Long-lasting with proper cleaning, adjustments, and regular dental visits",
+  "aftercare": [
+    "Daily denture cleaning",
+    "Remove dentures before sleeping if advised",
+    "Keep dentures moist when not in use",
+    "Regular dental check-ups",
+    "Proper gum and oral hygiene"
+  ],
+  "notes": "Partial dentures replace some missing teeth, while complete dentures replace all teeth in an upper or lower arch."
+}

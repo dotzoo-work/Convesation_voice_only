@@ -1,0 +1,41 @@
+
+{
+  "treatment_name": "Invisalign",
+  "category": "treatment",
+  "procedure_type": "Clear Aligner Treatment",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "Invisalign is a modern and discreet alternative to traditional metal braces that uses clear, removable aligners to straighten teeth.",
+  "main_benefits": [
+    "Virtually invisible aligners",
+    "Removable for eating and cleaning",
+    "Comfortable fit without metal brackets or wires",
+    "Custom-made for each patient",
+    "Digital precision using 3D scans",
+    "Predictable treatment results"
+  ],
+  "technology_used": [
+    "iTero 5D Scanner",
+    "Digital X-Rays",
+    "CAD/CAM Workflow",
+    "3D Digital Treatment Planning"
+  ],
+  "treatment_process": [
+    "Initial consultation with Dr. Tomar",
+    "Smile assessment and treatment planning",
+    "3D digital scan of teeth",
+    "Custom aligner creation",
+    "New aligner set every 2 weeks",
+    "Regular progress check-ups"
+  ],
+  "suitable_for": [
+    "Adults",
+    "Teens",
+    "Patients seeking an alternative to braces"
+  ],
+  "painful": false,
+  "removable": true,
+  "notes": "Patients can preview their future smile before starting treatment using digital planning."
+}
+

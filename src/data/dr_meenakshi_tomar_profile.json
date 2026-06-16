@@ -1,0 +1,66 @@
+
+{
+  "name": "Dr. Meenakshi Tomar",
+  "category":"Dr tomar profile",
+  "degree": "DDS",
+  "title": "Trusted General and Cosmetic Dentist",
+  "experience_years": 30,
+  "career_started": 1989,
+  "education": [
+    {
+      "institution": "New York University School of Dentistry",
+      "year": 2000,
+      "achievement": "Graduated with honors"
+    }
+  ],
+  "clinic_ownership": [
+    {
+      "clinic_name": "Edmonds Bay Dental",
+      "location": "Edmonds, WA"
+    },
+    {
+      "clinic_name": "Pacific Highway Dental",
+      "location": "Kent, WA"
+    }
+  ],
+  "specializations": [
+    "Full Mouth Restorations",
+    "All-On-X",
+    "Dental Implants",
+    "Cosmetic Smile Makeovers",
+    "Minimally Invasive Veneers",
+    "Laser Dentistry",
+    "Digital Dentistry",
+    "Crowns and Bridges",
+    "Invisalign Treatments"
+  ],
+  "technology_used": [
+    "iTero 5D Scanner",
+    "CAD/CAM Workflows",
+    "Advanced Laser Dentistry"
+  ],
+  "professional_membership": [
+    "Associate Fellow of the World Clinical Laser Institute (WCLI)"
+  ],
+  "languages_spoken": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+   "staff_languages_supported": [
+    "English",
+    "Hindi",
+    "Punjabi",
+    "Spanish"
+  ],
+  
+  
+  "personal_interests": [
+    "Gym",
+    "Local fundraising races",
+    "Volunteering with non-profits",
+    "Community service"
+  ],
+  "philosophy": "Dentistry should be predictable, long-lasting, and focused on the patient’s long-term health rather than quick fixes."
+}
+

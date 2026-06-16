@@ -1,0 +1,33 @@
+
+{
+  "category": "Insurance Information",
+  "clinic_name": "Edmonds Bay Dental",
+  "doctor": "Dr. Meenakshi Tomar",
+
+  "accepted_plans": [
+    "United Healthcare (UHC)",
+    "Aetna",
+    "Premera",
+    "Delta Dental",
+    "MetLife",
+    "Blue Cross",
+    "Blue Shield",
+    "Anthem",
+    "Lifewise",
+    "Cigna",
+    "Humana",
+    "Ameritas",
+    "United Concordia",
+    "Careington",
+    "Spirit Dental"
+  ],
+
+  "insurance_type": "Private PPO Plans",
+
+  "notes": "Dr. Tomar accepts most private PPO insurance plans. Patients are advised to call the clinic to confirm specific coverage details.",
+
+  "contact_for_confirmation": {
+    "phone": "425-775-5162",
+    "instruction": "Call to verify your specific insurance plan coverage."
+  }
+}

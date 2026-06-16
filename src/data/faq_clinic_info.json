@@ -1,0 +1,64 @@
+
+[
+  {
+    "question": "Where is Edmonds Bay Dental located?",
+    "answer": "Edmonds Bay Dental is located at 51 W Dayton Street Suite 301, Edmonds, WA 98020."
+  },
+  {
+    "question": "Does Dr. Tomar have multiple clinic locations?",
+    "answer": "Yes, Dr. Meenakshi Tomar operates Edmonds Bay Dental in Edmonds, WA and Pacific Highway Dental in Kent, WA."
+  },
+  {
+    "question": "What is the phone number of Edmonds Bay Dental?",
+    "answer": "You can contact Edmonds Bay Dental at 425-775-5162."
+  },
+  {
+    "question": "What is the phone number of Pacific Highway Dental?",
+    "answer": "You can contact Pacific Highway Dental at 253-529-9434."
+  },
+  {
+    "question": "What languages are spoken at Edmonds Bay Dental?",
+    "answer": "Dr. Tomar speaks English, Hindi, and Punjabi, and the clinic staff also supports Spanish."
+  },
+  {
+    "question": "Can out-of-state patients visit the clinic?",
+    "answer": "Yes, the clinic accepts out-of-state patients and supports travel-friendly scheduling."
+  },
+  {
+    "question": "Does the clinic support multilingual patients?",
+    "answer": "Yes, the clinic supports multiple languages including English, Hindi, Punjabi, and Spanish."
+  },
+  {
+    "question": "Which city is Edmonds Bay Dental located in?",
+    "answer": "Edmonds Bay Dental is located in Edmonds, Washington."
+  },
+    {
+        "question": "Is there more than one location for Dr. Tomar's practice?",
+        "answer": "Yes, Dr. Tomar has two locations: Edmonds Bay Dental in Edmonds and Pacific Highway Dental in Kent."
+    },
+    {
+        "question": "what language does your staff speak?",
+        "answer": "Dr. Tomar's staff speaks English, Hindi, Punjabi, and Spanish."
+    },
+    {
+        "question": "Is the clinic accessible for out-of-state patients?",
+        "answer": "Yes, the clinic accepts out-of-state patients and offers travel-friendly scheduling options."
+    },
+    
+    {
+        "question": "does your staff speak Spanish?",
+        "answer": "Yes, Dr. Tomar's staff speaks Spanish, in addition to English and other languages."
+    },
+    {
+        "question": "What is the address of the primary clinic location?",
+        "answer": "The primary clinic, Edmonds Bay Dental, is located at 51 W Dayton Street Suite 301, Edmonds, WA 98020."
+    },
+    {
+        "question": "What is the address of the another/secondary clinic location?",
+        "answer": "The secondary clinic, Pacific Highway Dental, is located at 27020 Pacific Highway South, Suite C, Kent, WA 98032."
+    },
+    {
+        "question": "What is the name of your staff members?",
+        "answer": "For privacy and security reasons, I cannot share specific staff member names.For staff information, please contact our office directly at (425) 775-5162"
+    }
+]

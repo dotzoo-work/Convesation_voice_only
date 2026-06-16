@@ -1,0 +1,61 @@
+
+{
+  "treatment_name": "Oral Surgery",
+  "category": "Oral Surgery treatment",
+  "procedure_type": "Surgical Dental Treatment",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "Oral surgery helps maintain oral health, restore proper chewing and speaking ability, and improve overall quality of life through surgical dental procedures.",
+  "main_services": [
+    "Tooth Extractions",
+    "Wisdom Tooth Removal",
+    "Apicoectomy",
+    "Bone Grafting",
+    "Dental Implants",
+    "Laser Surgery",
+    "Gum Surgery",
+    "Surgical Tooth Preservation"
+  ],
+  "main_benefits": [
+    "Removes severely damaged or infected teeth",
+    "Relieves pain and infection",
+    "Improves chewing and speaking function",
+    "Supports long-term oral health",
+    "Prepares mouth for implants or restorative work",
+    "Helps preserve surrounding bone and tissue"
+  ],
+  "used_for": [
+    "Severely decayed teeth",
+    "Broken or non-restorable teeth",
+    "Wisdom teeth complications",
+    "Infected root tips",
+    "Jawbone preparation for implants",
+    "Advanced gum and bone issues"
+  ],
+  "technology_used": [
+    "Digital X-Rays",
+    "CBCT Scan",
+    "Laser Dentistry",
+    "3D Treatment Planning"
+  ],
+  "treatment_process": [
+    "Comprehensive dental examination",
+    "Diagnosis using digital imaging",
+    "Treatment planning",
+    "Local anesthesia for patient comfort",
+    "Surgical procedure based on need",
+    "Post-operative care instructions",
+    "Healing follow-up visits"
+  ],
+  "painful": false,
+  "removable": false,
+  "aftercare": [
+    "Follow post-surgery instructions carefully",
+    "Avoid hard foods temporarily",
+    "Maintain oral hygiene gently",
+    "Take prescribed medications if needed",
+    "Attend follow-up appointments"
+  ],
+  "notes": "Oral surgery is performed only when conservative dental treatment is not enough to solve the problem."
+}

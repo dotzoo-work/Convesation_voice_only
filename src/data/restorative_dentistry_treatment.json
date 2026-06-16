@@ -1,0 +1,60 @@
+
+{
+  "treatment_name": "Restorative Dentistry",
+  "category": "treatment",
+  "procedure_type": "Tooth Repair and Replacement",
+  "available": true,
+  "doctor": "Dr. Meenakshi Tomar",
+  "clinic_name": "Edmonds Bay Dental",
+  "description": "Restorative dentistry focuses on repairing damaged teeth and replacing missing teeth to restore proper function, oral health, and smile appearance.",
+  "main_services": [
+    "Crowns (Caps)",
+    "Dental Implants",
+    "Dentures and Partial Dentures",
+    "Fixed Bridges",
+    "Inlay Restorations",
+    "Onlay Restorations",
+    "Root Canal Therapy"
+  ],
+  "main_benefits": [
+    "Restore chewing ability",
+    "Improve speech clarity",
+    "Replace missing teeth",
+    "Protect weak or damaged teeth",
+    "Improve smile appearance",
+    "Prevent further dental damage",
+    "Support long-term oral health"
+  ],
+  "used_for": [
+    "Broken or cracked teeth",
+    "Missing teeth",
+    "Worn-down teeth",
+    "Severely decayed teeth",
+    "Root canal treated teeth",
+    "Full mouth rehabilitation"
+  ],
+  "technology_used": [
+    "iTero 5D Scanner",
+    "Digital X-Rays",
+    "CAD/CAM Workflow",
+    "Digital Treatment Planning"
+  ],
+  "treatment_process": [
+    "Comprehensive dental examination",
+    "Diagnosis and treatment planning",
+    "Digital scans and impressions",
+    "Restorative procedure based on need",
+    "Final restoration placement",
+    "Follow-up and maintenance care"
+  ],
+  "painful": false,
+  "removable": false,
+  "aftercare": [
+    "Brush and floss regularly",
+    "Routine dental check-ups",
+    "Avoid damaging habits like chewing hard objects",
+    "Maintain gum health",
+    "Follow doctor-specific aftercare instructions"
+  ],
+  "notes": "Treatment is personalized depending on the condition of the tooth and the long-term restorative goals of the patient."
+}
